@@ -1,0 +1,42 @@
+[
+    {
+        "Country": "USA",
+        "Population": 331002651
+    },
+    {
+        "Country": "India",
+        "Population": 1380004385
+    },
+    {
+        "Country": "China",
+        "Population": 1444216107
+    },
+    {
+        "Country": "Brazil",
+        "Population": 212559417
+    },
+    {
+        "Country": "Russia",
+        "Population": 145934462
+    },
+    {
+        "Country": "Japan",
+        "Population": 126476461
+    },
+    {
+        "Country": "Mexico",
+        "Population": 128932753
+    },
+    {
+        "Country": "Germany",
+        "Population": 83783942
+    },
+    {
+        "Country": "Egypt",
+        "Population": 102334404
+    },
+    {
+        "Country": "Nigeria",
+        "Population": 206139589
+    }
+]
